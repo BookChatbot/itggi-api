@@ -27,8 +27,8 @@ class Today(Resource):  # 오늘의 추천
         now = datetime.now()
         # 매달 1일에 베스트셀러 갱신하여 0부터 30까지 저장
         # 그 날짜에 해당하는 책 추천 22800 -> 22년 8월 1번째 베스트셀러
-        date = now.year % 100*1000 + now.month*100
-        if now.day == 1 and BookModel.find_by_bestseller(date) == None:
+        date = now.year % 100*10000 + now.month*100
+        if BookModel.find_by_bestseller(date) == None:
             search = Searching()
             books = search.search_list("Bestseller", 50)
             for i in books.keys():
