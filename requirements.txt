@@ -9,3 +9,4 @@ gunicorn
 pandas
 matplotlib
 numpy
+cryptography
