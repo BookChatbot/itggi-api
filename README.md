@@ -6,7 +6,7 @@ ICT 도서추천 챗봇
 
 [한이음 팀블로그](https://www.hanium.or.kr/portal/project/teamBlogView.do)
 
-![main character](./static/introduce.png)
+![main character](https://github.com/BookChatbot/itggi-api/assets/60846847/90d7bea0-b9ad-4551-b467-9be7742a6b56)
 
 ### 팀명: 책잇아웃
 
@@ -25,7 +25,7 @@ ICT 도서추천 챗봇
 
 ### 시스템 구성도
 
-![system architecture](./static/system_architecture.png)
+![system architecture](https://github.com/BookChatbot/itggi-api/assets/60846847/5101bbb4-4771-46b2-b58a-798dd65af79f)
 
 ### 추천 기능
 
@@ -63,4 +63,4 @@ ICT 도서추천 챗봇
 
 ### 메뉴 구성도
 
-![menu](./static/menu.png)
+![menu](https://github.com/BookChatbot/itggi-api/assets/60846847/5ff1e819-9fcf-4bbf-be27-96977cadc78d)
