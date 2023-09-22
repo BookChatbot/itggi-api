@@ -6,6 +6,8 @@ ICT 도서추천 챗봇
 
 [한이음 팀블로그](https://www.hanium.or.kr/portal/project/teamBlogView.do)
 
+![main character](static/introduce.png)
+
 ### 팀명: 책잇아웃
 
 - 멘토: 김현진
@@ -20,6 +22,10 @@ ICT 도서추천 챗봇
 - 회의 및 스터디 내용 문서화(Notion)
 - 활발한 소통 (KakaoTalk)
 - Gitlab 을 활용하여 프로젝트 관리 및 협업
+
+### 시스템 구성도
+
+![system architecture](static/system_architecture.png)
 
 ### 추천 기능
 
@@ -53,3 +59,8 @@ ICT 도서추천 챗봇
 - 바코드 검색
   - 바코드를 찍어서 ISBN 값을 가져와 책 검색 가능
 - 검색한 책을 '내 서재' 에 저장 가능
+
+
+### 메뉴 구성도
+
+![menu](static/menu.png)
